@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498377456498",
+    "firebase_url": "https://health-book-8d23e.firebaseio.com",
+    "project_id": "health-book-8d23e",
+    "storage_bucket": "health-book-8d23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498377456498:android:7cbe6b90eaa2068223bbeb",
+        "android_client_info": {
+          "package_name": "br.lanconi.healthbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498377456498-il2gb0qlroagsibosatgcvvocq0cg2o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.lanconi.healthbook",
+            "certificate_hash": "02c09e12a78205d966fd974eabdb34159b32668f"
+          }
+        },
+        {
+          "client_id": "498377456498-tikackpv0vjffm2m9u4nmabmv8mfbciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZeT_wBKn-5L6V3wGz_kJbUOmSVdXRO78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498377456498-tikackpv0vjffm2m9u4nmabmv8mfbciq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498377456498-pl8tmg3dni4o0n9ki3t8j1ifgr1vkk53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.lanconi.healthbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

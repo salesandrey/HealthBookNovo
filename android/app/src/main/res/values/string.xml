@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Health Book</string>
+
+    <string name="facebook_app_id">382121003140997</string>
+
+    <string name="fb_login_protocol_scheme">fb382121003140997</string>
+</resources>
