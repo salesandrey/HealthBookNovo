@@ -11,9 +11,6 @@ import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'register_family_controller.dart';
 
 class RegisterFamilyPage extends StatefulWidget {
-  final String title;
-  const RegisterFamilyPage({Key key, this.title = "RegisterFamily"})
-      : super(key: key);
 
   @override
   _RegisterFamilyPageState createState() => _RegisterFamilyPageState();
